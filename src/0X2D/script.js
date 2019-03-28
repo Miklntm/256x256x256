@@ -65,8 +65,9 @@ interact('.draggable')
                      Math.pow(event.pageY - event.y0, 2) | 0))
             .toFixed(2) + 'px');
     }
+  
   });
-    
+  
 }
 
 
